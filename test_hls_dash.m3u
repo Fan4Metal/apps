@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.jpg" group-title="Федеральные",Первый канал
+http://iptv.medialibrary.keenetic.link/streams/media/01-pervyy-kanal_720x576/index.m3u8
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Федеральные",Россия 1
+http://iptv.medialibrary.keenetic.link/streams/media/02-rossiya-1_720x576/index.m3u8
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="" group-title="Федеральные",Fashion
+http://iptv.medialibrary.keenetic.link/streams/media/51-fashion-tv-hd_1920x1080/index.m3u8
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.jpg" group-title="Федеральные",Первый канал
+http://iptv.medialibrary.keenetic.link/streams/media/01-pervyy-kanal_720x576/index.mpd
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Федеральные",Россия 1
+http://iptv.medialibrary.keenetic.link/streams/media/02-rossiya-1_720x576/index.mpd
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="" group-title="Федеральные",Fashion
+http://iptv.medialibrary.keenetic.link/streams/media/51-fashion-tv-hd_1920x1080/index.mpd
