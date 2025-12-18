@@ -2,65 +2,65 @@
 #EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-perviy-kanal.jpg" group-title="Федеральные",Первый канал
 http://iptv.medialibrary.keenetic.link/streams/progressive/perviy
 
-#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/a/a2/ROSSIYA-1_logo.png/320px-ROSSIYA-1_logo.png" group-title="Федеральные",Россия 1
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-1.png" group-title="Федеральные",Россия 1
 http://iptv.medialibrary.keenetic.link/streams/progressive/rossiya
 
-#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/71/Match_TV_logo_2015.png/320px-Match_TV_logo_2015.png" group-title="Спорт",Матч ТВ
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-match-tv.png" group-title="Спорт",Матч ТВ
 http://iptv.medialibrary.keenetic.link/streams/progressive/match
 
-#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/NTV_logo.svg/320px-NTV_logo.svg.png" group-title="Федеральные",НТВ
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv.png" group-title="Федеральные",НТВ
 http://iptv.medialibrary.keenetic.link/streams/progressive/ntv
 
-#EXTINF:-1 tvg-id="5tv.ru" tvg-name="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e9/5channel_logo.png/320px-5channel_logo.png" group-title="Федеральные",Пятый канал
+#EXTINF:-1 tvg-id="5tv.ru" tvg-name="Пятый канал" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatuyi-kanal.png" group-title="Федеральные",Пятый канал
 http://iptv.medialibrary.keenetic.link/streams/progressive/pyatiy
 
-#EXTINF:-1 tvg-id="russiak.ru" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/Kultura-TV_logo.png/320px-Kultura-TV_logo.png" group-title="Культура",Россия К
+#EXTINF:-1 tvg-id="russiak.ru" tvg-name="Россия К" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-k.jpg" group-title="Культура",Россия К
 http://iptv.medialibrary.keenetic.link/streams/progressive/rossiyak
 
-#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rossiya_24_2019_logo.svg/320px-Rossiya_24_2019_logo.svg.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия 24" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rossiya-24.png" group-title="Новости",Россия 24
 http://iptv.medialibrary.keenetic.link/streams/progressive/rossiya24
 
-#EXTINF:-1 tvg-id="otr.ru" tvg-name="ОТР" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/OTR_logo_2020.svg/320px-OTR_logo_2020.svg.png" group-title="Общественное",Общественное телевидение России
+#EXTINF:-1 tvg-id="otr.ru" tvg-name="ОТР" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-otr.png" group-title="Общественное",Общественное телевидение России
 http://iptv.medialibrary.keenetic.link/streams/progressive/otr
 
-#EXTINF:-1 tvg-id="rbc.ru" tvg-name="РБК" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/dc/RBK_logo.svg/320px-RBK_logo.svg.png" group-title="Новости",РБК
+#EXTINF:-1 tvg-id="rbc.ru" tvg-name="РБК" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rbc.png" group-title="Новости",РБК
 http://iptv.medialibrary.keenetic.link/streams/progressive/rbc
 
-#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/a/a5/TVC_HD_logo.png/320px-TVC_HD_logo.png" group-title="Московские",ТВ Центр
+#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv-centr.png" group-title="Московские",ТВ Центр
 http://iptv.medialibrary.keenetic.link/streams/progressive/tvc
 
-#EXTINF:-1 tvg-id="rentv.ru" tvg-name="РЕН ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/REN_TV_logo_2021.svg/320px-REN_TV_logo_2021.svg.png" group-title="Развлечения",РЕН ТВ
+#EXTINF:-1 tvg-id="rentv.ru" tvg-name="РЕН ТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ren-tv.png" group-title="Развлечения",РЕН ТВ
 http://iptv.medialibrary.keenetic.link/streams/progressive/rentv
 
-#EXTINF:-1 tvg-id="sts.ru" tvg-name="СТС" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/STS_logo_2016.svg/320px-STS_logo_2016.svg.png" group-title="Развлечения",СТС
+#EXTINF:-1 tvg-id="sts.ru" tvg-name="СТС" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ctc.png" group-title="Развлечения",СТС
 http://iptv.medialibrary.keenetic.link/streams/progressive/sts
 
-#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Domashniy_logo_2016.svg/320px-Domashniy_logo_2016.svg.png" group-title="Развлечения",Домашний
+#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-domashniy.png" group-title="Развлечения",Домашний
 http://iptv.medialibrary.keenetic.link/streams/progressive/domashniy
 
-#EXTINF:-1 tvg-id="tv3.ru" tvg-name="ТВ-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TV3_logo_2014.svg/320px-TV3_logo_2014.svg.png" group-title="Развлечения",ТВ-3
+#EXTINF:-1 tvg-id="tv3.ru" tvg-name="ТВ-3" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv3.png" group-title="Развлечения",ТВ-3
 http://iptv.medialibrary.keenetic.link/streams/progressive/tv3
 
-#EXTINF:-1 tvg-id="pyatnica.ru" tvg-name="Пятница!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pyatnica_logo_2014.svg/320px-Pyatnica_logo_2014.svg.png" group-title="Развлечения",Пятница!
+#EXTINF:-1 tvg-id="pyatnica.ru" tvg-name="Пятница!" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-pyatnica.png" group-title="Развлечения",Пятница!
 http://iptv.medialibrary.keenetic.link/streams/progressive/pyatnitsa
 
-#EXTINF:-1 tvg-id="tvzvezda.ru" tvg-name="Звезда" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zvezda_Channel_logo.svg/320px-Zvezda_Channel_logo.svg.png" group-title="Патриотические",Звезда
+#EXTINF:-1 tvg-id="tvzvezda.ru" tvg-name="Звезда" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-zvezda.png" group-title="Патриотические",Звезда
 http://iptv.medialibrary.keenetic.link/streams/progressive/zvezda
 
-#EXTINF:-1 tvg-id="mirtv.ru" tvg-name="Мир" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mir_logo.svg/320px-Mir_logo.svg.png" group-title="Международные",Мир
+#EXTINF:-1 tvg-id="mirtv.ru" tvg-name="Мир" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-telekanal-mir.png" group-title="Международные",Мир
 http://iptv.medialibrary.keenetic.link/streams/progressive/mir
 
-#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TNT_logo_2021.svg/320px-TNT_logo_2021.svg.png" group-title="Развлечения",ТНТ
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tnt.jpg" group-title="Развлечения",ТНТ
 http://iptv.medialibrary.keenetic.link/streams/progressive/tnt
 
-#EXTINF:-1 tvg-id="muztv.ru" tvg-name="МУЗ-ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/MUZ-TV_logo_2015.png/320px-MUZ-TV_logo_2015.png" group-title="Музыка",МУЗ-ТВ
+#EXTINF:-1 tvg-id="muztv.ru" tvg-name="МУЗ-ТВ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-muz-tv.png" group-title="Музыка",МУЗ-ТВ
 http://iptv.medialibrary.keenetic.link/streams/progressive/MUZTV
 
-#EXTINF:-1 tvg-id="subbota.ru" tvg-name="Суббота" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Subbota_logo_2019.svg/320px-Subbota_logo_2019.svg.png" group-title="Развлечения",Суббота!
+#EXTINF:-1 tvg-id="subbota.ru" tvg-name="Суббота" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-subbota.png" group-title="Развлечения",Суббота!
 http://iptv.medialibrary.keenetic.link/streams/progressive/subbota
 
-#EXTINF:-1 tvg-id="chetv.ru" tvg-name="ЧЕ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CHE_logo_2015.svg/320px-CHE_logo_2015.svg.png" group-title="Развлечения",ЧЕ
+#EXTINF:-1 tvg-id="chetv.ru" tvg-name="ЧЕ" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-che.png" group-title="Развлечения",ЧЕ
 http://iptv.medialibrary.keenetic.link/streams/progressive/che
 
-#EXTINF:-1 tvg-id="euronews.com" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Euronews_logo_2016.svg/320px-Euronews_logo_2016.svg.png" group-title="Новости",Euronews
+#EXTINF:-1 tvg-id="euronews.com" tvg-name="Euronews" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-euronews.jpg" group-title="Новости",Euronews
 http://iptv.medialibrary.keenetic.link/streams/progressive/euronews
